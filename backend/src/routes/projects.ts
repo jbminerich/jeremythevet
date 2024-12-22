@@ -7,3 +7,4 @@ const router = express.Router();
 router.get("/", getProjects);
 
 export default router;
+
